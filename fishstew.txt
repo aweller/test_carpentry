@@ -1,0 +1,14 @@
+fishstew
+
+ingredients
+fish
+onion
+
+base
+water
+broth
+
+prep
+clean
+prepare
+eat
